@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "learn-fast-api"
+name = "Course Hub"
 version = "0.1.0"
 description = ""
 authors = ["Azran Hossain <azranhossain@outlook.com>"]
